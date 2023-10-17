@@ -1,11 +1,9 @@
-## Hello World! Prazer, sou o Rafael Biondi 👋
+## Hello World! I'm Rafael Biondi 👋
 
 - 🔭 Atualmente estou trabalhando em pequenos projetos pessoais;
-- 🌱 Estou estudando JavaScript com a Rocketseat;
-- 👯 Busco oportunidades para que eu possa colaborar e aprender ainda mais;
-- 📫 Contate-me no e-mail: contatorafaelbiondi@gmail.com;
-- 😄 Pronomes: ele/dele;
-- ⚡ Fun fact: hackeei acidentalmente alguns computadores da minha escola;
+- 🌱 Desde 2020, HTML, CSS, Javascript e NodeJs;
+- 👯 Busco oportunidades, visando agregar valor e contribuir para um bem maior;
+- 📫 Contate-me no e-mail: rafaelbiondi.contato@gmail.com;
 
 ##
 
