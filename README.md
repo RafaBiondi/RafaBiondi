@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou trabalhando em pequenos projetos pessoais;
 - 🌱 Desde 2020, HTML, CSS, Javascript e NodeJs;
 - 👯 Busco oportunidades, visando agregar valor e contribuir para um bem maior;
-- 📫 Contate-me no e-mail: rafaelbiondi.contato@gmail.com;
+- 📫 Contate-me no e-mail: eubiondi@gmail.com;
 
 ##
 
