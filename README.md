@@ -1,4 +1,7 @@
+<img src="./assets/lineBar.png" width="100%" height="8px"/>
 <img width=100% src="./assets/cover.jpg"/>
+<img src="./assets/lineBar.png" width="100%" height="8px"/>
+
 
 <div align='center'>
 
@@ -12,7 +15,7 @@
 
 </div>
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+<img src="./assets/lineBar.png" width="100%" height="8px"/>
 
 <div><br />
 
@@ -71,7 +74,7 @@
 
 <br />
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+<img src="./assets/lineBar.png" width="100%" height="8px"/>
 
 <h2 align='center'>Contact me</h2>
 
