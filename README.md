@@ -1,7 +1,4 @@
-<img src="./assets/lineBar.png" width="100%" height="8px"/>
-<img width=100% src="./assets/cover.jpg"/>
-<img src="./assets/lineBar.png" width="100%" height="8px"/>
-
+<img width=100% src="./assets/cover.png"/>
 
 <div align='center'>
 
