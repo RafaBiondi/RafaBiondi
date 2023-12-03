@@ -1,3 +1,5 @@
+<img width=100% src="./assets/cover.jpg"/>
+
 <div align='center'>
 
 <div align="center">  
