@@ -1,35 +1,81 @@
-## Hello World! I'm Rafael Biondi 👋
+<div align='center'>
 
-- 🔭 Atualmente estou trabalhando em pequenos projetos pessoais;
-- 🌱 Desde 2020, HTML, CSS, Javascript e NodeJs;
-- 👯 Busco oportunidades, visando agregar valor e contribuir para um bem maior;
-- 📫 Contate-me no e-mail: eubiondi@gmail.com;
-
-##
-
-<div align="center">
-  <a href="https://github.com/RafaBiondi">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaBiondi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaBiondi&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</div>
-
-##
-
-<div> 
-  <a href="https://instagram.com/rafa.biondi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eubiondi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafabiondi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://app.rocketseat.com.br/me/rafael-biondi-02476" target="_blank"><img src="https://img.shields.io/badge/Rocketseat-%237159c1?style=for-the-badge&logo=ghost" target="_blank">
-   
-  ![Snake animation](https://github.com/RafaBiondi/RafaBiondi/blob/output/github-contribution-grid-snake.svg)
-   
-</div>
+<div align="center">  
   
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RafaBiondi&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaBiondi&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  
+</div>
+
+</div>
+
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
+<div><br />
+
+## Technologies that I use in my everyday:
+
+<br />
+
+  <div>
+    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />   
+    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  </div>
+</div>
+
+<div><br />
+
+## Technologies that I had contact:
+
+<br />
+  <div>
+    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />      
+    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  </div>
+</div>
+
+<div><br />
+
+## Complementary technologies:
+
+<br />
+ <div>
+  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
+  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
+  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+
+           
+  </div>
+</div>
+
+<br /><br />
+
+## 🧡 About me:
+
+👋 Hello! My name is Rafael Biondi and I am a FullStack Developer. I started studying in 2020 at Rocketseat, and since then, I feel more and more inspired and willing to pursue my career in the area. <br /> 
+🧠 My current goal is to get my first job and, in the future, become a Tech Lead.<br /> 
+🧑‍💻 My main technologies are Javascript/Typescript, React, NextJS, Styled-Components, NodeJS and Prisma + Fastify.<br />
+🧑🏻 I always try to be a polite and respectful person, and I love interacting with new people and sharing my story. Want to talk about technology, gym, astronomy or sports? Send a message!<br /> 
+
+<br />
+
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
+<h2 align='center'>Contact me</h2>
+
+<div align='center'>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafabiondi/)
+
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:6643b5,100:430f58&height=120&section=footer"/>
